@@ -1,4 +1,4 @@
-# Workshop: Application Modernization in GCP - Modena Dev Fest
+# Workshop: Application Modernization in GCP - Modena Dev Fest 2024
 Codebase for the workshop "Application Modernization in GCP"
 
 This basic code will be used as base project for a workshop. *Important*: this is NSFW (Not Suitable For Work) and it should not be used as example in a production environment. The code might contain security issues and is not optimized for a Cloud environment. It is based on PHP5 and MySQL.
